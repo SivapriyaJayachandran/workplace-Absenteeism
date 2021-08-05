@@ -1,1 +1,5 @@
 # workplace-Absenteeism
+
+This   study aims to predict the possibility of absentee in the early stages of recruitment by considering various factors such as distance from home, social habits, Health and daily routines, etc. By combining these factors, we can provide a model using machine learning to predict whether a candidate could take more than average sick days. In this project, we will be experimenting ANN along with the machine learning algorithms Decision tree, logistic regression, KNN, GaussianNB, Random Forest(RF) and support vector machines(SVM) to determine which one yields the highest accuracy in predicting the workplace absenteeism. 
+
+The dataset used  for this project is  “Absenteeism at work” dataset (https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work) the dataset was created with records of absenteeism at work from July 2007 to July 2010 at a courier company in Brazil. it has also been used in academic research at the Universidade Nove de Julho — Postgraduate Program in Informatics and Knowledge Management
